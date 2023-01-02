@@ -74,7 +74,7 @@
 // if ( loveScore <= 30) {
 //      alert ("your love score na " + loveScore +  "%" + " d luv no go even work yus forget");
 // }
-
+// dhdjddjdjdjd
 
 
 
